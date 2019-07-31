@@ -1,2 +1,2 @@
 # LaunchCode
-## Use in conjunction with Notion CoderGirl Notes.
+## For review in conjunction with Notion CoderGirl Notes.
