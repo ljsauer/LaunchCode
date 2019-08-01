@@ -1,2 +1,2 @@
-# LaunchCode
-## For review in conjunction with Notion CoderGirl Notes.
+# LaunchCode CoderGirl July 2019 cohort
+## Personal working notes for homework and class meetings.
